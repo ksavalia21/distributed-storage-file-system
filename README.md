@@ -1,4 +1,4 @@
-# Distributed-Storage-File-System-DSFS-
+# Distributed-Storage-File-System (DSFS)
 Here's a **GitHub README.md** template for your **Distributed Storage File System (DSFS) project** in a structured format like the example you provided.  
 
 ---
